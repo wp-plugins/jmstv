@@ -291,7 +291,7 @@ Betrifft nicht die Blog-Administratoren
 <label for="jmstv_redirect_custom">
 Nur auf markierte Seiten anwenden
 <br />
-<em>(Benutzerdefiniertes Feld <strong>jmstv</strong> mit dem Wert <strong>1</strong></em>
+<em>Benutzerdefiniertes Feld <strong>jmstv</strong> mit dem Wert <strong>1</strong></em>
 </label>
 </li>
 </ul>

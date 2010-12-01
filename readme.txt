@@ -29,7 +29,7 @@ Alternativ können nur bestimmte Artikel von der Zeitsteuerung berücksichtigt w
 = Weiterführende Links =
 * [Auf Twitter folgen für Updates](http://twitter.com/wpSEO "wpSEO auf Twitter")
 * [Andere Plugins des Autors](http://wordpress.org/extend/plugins/profile/stalkerx "Andere Plugins des Autors")
-* [Author page](http://ebiene.de "Seite des Autors")
+* [Seite des Autors](http://ebiene.de "Seite des Autors")
 
 
 == Changelog ==
