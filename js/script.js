@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){var ab_num,ab_obj=['jmstv_redirect_enable'];function manage_options(checkbox){var obj=$(checkbox).parents('li').find('ul');obj.slideToggle('fast',function(){obj.children().find(':input').attr('disabled',!$(checkbox).attr('checked'));});}for(ab_num in ab_obj){$('#'+ab_obj[ab_num]).click(function(){manage_options(this);});}});
